@@ -26,6 +26,9 @@ target/
 ehthumbs.db
 Thumbs.db
 
+# Claude Code
+.claude/
+
 # IDE and editor files
 .idea/
 .vscode/
@@ -52,3 +55,4 @@ Thumbs.db
 *.tmp
 
 data/
+deprecated/
